@@ -1,0 +1,13 @@
+html {
+  background: lightblue;
+}
+
+body {
+  margin: auto;
+  text-align: center;
+}
+
+#outputDiv {
+  font-size: 32px;
+  font-weight: bold;
+}
